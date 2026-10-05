@@ -36,6 +36,7 @@ rather than only what worked.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[BookMySeat](https://github.com/Arshad-327/BookMySeat)** | Scalable ticket booking platform with concurrency-safe seat reservation, Redis locking, Kafka events, and microservices. | Spring Boot · React · Redis · Kafka · MySQL |
 | **[reachinbox-scheduler](https://github.com/Arshad-327/reachinbox-scheduler)** | Email scheduler where the queue delay *is* the schedule — no cron. Atomic Lua rate limits, crash reconciliation, two-layer idempotency. | Express · BullMQ · Postgres · Next.js |
 | **[healthhub](https://github.com/Arshad-327/unified-health-record-and-appoint-manager)** — [live demo](https://unified-health-record-and-appoint-m.vercel.app) | Health records + appointments with role-based access and per-record, per-doctor consent sharing. Deployed on Vercel + Railway. | Spring Boot · React · MySQL |
 | **[redis-rate-limiter](https://github.com/Arshad-327/rate-limiter)** | Four rate-limiting algorithms compared live, including a proven token-bucket race condition and its atomic Lua fix. | Spring Boot · Redis · React |
